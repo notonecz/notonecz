@@ -1,7 +1,7 @@
 # 💫 About Me:
 Front-end & Back-end developer<br><br>16yo<br>Student of SPS ELIT Dobruška high school in 🇨🇿<br><br>-> Skiing ⛷️<br>-> Playing florbal 🏑<br>-> Photographing 📷<br>-> Raspberry PI & ESP32 lover 📟
 
-# Investing in to:
+# I invest in:
 
 ![IREN](https://cdn.brandfetch.io/idYBRsLjLT/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)<br><br>
 ![TSLA](https://cdn.brandfetch.io/id2S-kXbuK/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)<br><br>
