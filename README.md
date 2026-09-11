@@ -1,11 +1,12 @@
 # 💫 About Me:
-Front-end & Back-end developer<br><br>16yo<br>Student of SPS ELIT Dobruška high school in 🇨🇿<br><br>-> Skiing ⛷️<br>-> Playing florbal 🏑<br>-> Photographing 📷<br>-> Raspberry PI & ESP32 lover 📟
+Front-end & Back-end developer<br><br>17yo<br>Student of SPS ELIT Dobruška high school in 🇨🇿<br><br>-> Skiing ⛷️<br>-> Playing florbal 🏑<br>-> Photographing 📷<br>-> Raspberry PI & ESP32 lover 📟
 
 # I invest in:
 
 ![IREN](https://cdn.brandfetch.io/idYBRsLjLT/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)<br><br>
+![BTC](https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg)<br><br>
 ![TSLA](https://cdn.brandfetch.io/id2S-kXbuK/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)<br><br>
-![BTC](https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg)
+![MICRON](https://cdn.brandfetch.io/idNcgNtzG1/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/780885145157763134) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VojtechProuzaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vojtech_prouza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vojtech_prouza) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@not-one) [![BuyMeACoffe](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/notone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vojtechprouza@icloud.com) 
